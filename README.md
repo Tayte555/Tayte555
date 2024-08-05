@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to Tayte's Workspace 💻
+## 👋 About Me 
+## 💡 Personal Projects 
+## 🔨 Tools
+
 
 <!--
 **Tayte555/Tayte555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
